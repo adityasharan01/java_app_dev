@@ -1,5 +1,5 @@
 # java_app_dev
-- #Advanced Java (Socket Programming, Swing / JavaFx)
+- # Advanced Java (Socket Programming, Swing / JavaFx)
 - #Spring / Spring Boot
 - #JPA, Hibernate
 - #RESTful APIs
