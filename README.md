@@ -1,4 +1,9 @@
-# java_app_dev
+# Group Chatting Application using Socket Programming and Swing (for UI) in Java
+
+## Finally!!! I summoned up the courage today and did it. The struggle was real. I thought I could never be able to do it, but I did it ... and it felt so good!
+
+After hoarding over 450 tabs, across 9 Chrome windows, I hit that QUIT button and liberated my soul! 😅
+# Topics I learned
 - ### Advanced Java (Socket Programming, Swing / JavaFx)
 - ### Spring / Spring Boot
 - ### JPA, Hibernate
@@ -11,8 +16,3 @@
 
 ### Socket Programming in Java
 
-## Minor Project 1: Group Chatting Application using Socket Programming and Swing (for UI) in Java
-
-## Minor Project 2: Library Managment System using Java + Spring / Spring Boot + JPA / Hibernate + MySQL
-
-## Major Project : Developing a sample Web App (that includes some Spring Boot based Micro-services) for an e-wallet (like Paytm) App, using Spring Boot + Hibernate+ MySQL + RESTful APIs + Swagger + Actuator.
